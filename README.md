@@ -1,5 +1,7 @@
 ﻿# Gocgun.Results
 
+> **Beta.** This package is in beta: the public API may change between releases.
+
 Application result types for success and failure.
 
 - `Result` has no payload. Success is HTTP 204 at the edge; this package does not reference HTTP.
