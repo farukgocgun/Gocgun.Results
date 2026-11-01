@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="src/Gocgun.Results/Gocgun.Results.csproj" />
+  <Project Path="tests/Gocgun.Results.Tests/Gocgun.Results.Tests.csproj" />
+</Solution>

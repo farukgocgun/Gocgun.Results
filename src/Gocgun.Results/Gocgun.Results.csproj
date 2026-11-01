@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Gocgun.Results</RootNamespace>
+    <IsPackable>true</IsPackable>
+    <PackageId>Gocgun.Results</PackageId>
+    <Description>Result, Result of T, and cursor pages. No HTTP and no EF Core.</Description>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+</Project>
