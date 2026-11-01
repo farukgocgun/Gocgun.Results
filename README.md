@@ -10,7 +10,7 @@ Application result types for success and failure.
 - `Error` carries `Code`, `Message`, `ErrorType`, optional field `Details`, and optional `Metadata`.
 - `ResultFactory.Failure<TResponse>` builds a failed result without reflection.
 
-No ASP.NET Core types. No Entity Framework types. License: AGPL-3.0-only (`LICENSE`). Copyright holder exception: `LICENSE-EXCEPTION`.
+No ASP.NET Core types. No Entity Framework types. License: MIT (`LICENSE`).
 
 Tests are unit tests. The package has no process, network, or database boundary, so an integration project would not exercise a different seam.
 
